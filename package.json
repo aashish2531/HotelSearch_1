@@ -1,0 +1,21 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camaro": "^3.0.8",
+    "fs": "0.0.1-security",
+    "re": "^0.1.4",
+    "request": "^2.88.0",
+    "xml-query": "^1.4.0",
+    "xml2js": "^0.4.19",
+    "xmldom": "^0.1.27",
+    "yargs": "^12.0.2"
+  }
+}
